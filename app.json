@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "SHABAN-MD~9dA3hb7Y#BAy9TwbpD2mk-yb42NcNBdgUpKrnJqg36DmSoJ_TA2Y",
       "required": true,
-      "value": "true"
+      "value": ""
     },  
     
     "STICKER_NAME": {
